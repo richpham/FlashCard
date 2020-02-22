@@ -6,7 +6,7 @@ if the user's answer is wrong then the text will turn red
 if the user's answer is right then the text will turn green 
 
 ## App Walk-through
-<img src="https://i.imgur.com/P6s8tfP.gif"><br>
+<img src="https://i.imgur.com/P6s8tfP.gif"width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
