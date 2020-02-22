@@ -1,8 +1,9 @@
-Quiz
+## Flashcard
 
-Quiz is an application that ask the user a question
-If the user answer it right then the answer will change color into green
-If the user answer it wrong then the answer will change color into red
+## App Description
+Flashcard is an application that ask the user a question
+If the user's answer it right then the answer will change color into green
+If the user's answer it wrong then the answer will change color into red
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
@@ -11,7 +12,7 @@ If the user answer it wrong then the answer will change color into red
 - [x] Add a view for the front side of the flashcard to display the question
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHu
+- [x] Push code to GitHub
 ## Optional
 - [x] toggle the flashcard between the question side and the answer side
 - [x] Style the question and answer side of the card to better distinguish between the two sides
