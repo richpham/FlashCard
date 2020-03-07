@@ -28,7 +28,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="72dp"
-        android:layout_marginBottom="273dp"
+        android:layout_marginBottom="215dp"
         android:background="#FFC107"
         android:backgroundTint="#90FFC107"
         android:gravity="center"
@@ -46,7 +46,7 @@
         android:layout_alignParentTop="true"
 
         android:layout_marginStart="72dp"
-        android:layout_marginTop="179dp"
+        android:layout_marginTop="113dp"
         android:background="#FFC107"
         android:backgroundTint="#90FFC107"
         android:gravity="center"
@@ -63,7 +63,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="72dp"
-        android:layout_marginBottom="374dp"
+        android:layout_marginBottom="313dp"
         android:background="#FFC107"
         android:backgroundTint="#90FFC107"
         android:gravity="center"
@@ -80,5 +80,17 @@
         android:layout_marginBottom="11dp"
         android:background="@android:drawable/ic_menu_view"
         android:backgroundTint="@android:color/background_dark" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="19dp"
+        android:clickable="true"
+        android:drawableBottom="@drawable/ic_iconmonstr_plus_6"
+        android:text="Add" />
 
 </RelativeLayout>
