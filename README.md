@@ -1,20 +1,22 @@
-Quiz
+## Flashcard
 
-Quiz is an application that ask the user a question
-If the user answer it right then the answer will change color into green
-If the user answer it wrong then the answer will change color into red
+## App Description
+Flashcard is an application for CodePath 2020 that asks the user questions
+if the user's answer is wrong then the text will turn red
+if the user's answer is right then the text will turn green 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+## App Walk-through
+<img src="https://i.imgur.com/P6s8tfP.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHu
+- [x] Push code to GitHub
 ## Optional
-- [x] toggle the flashcard between the question side and the answer side
+- [x] Toggle the flashcard between the question side and the answer side
 - [x] Style the question and answer side of the card to better distinguish between the two sides
 - [x] Add selectable multiple choice answers beneath the card
-- [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [x] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
 - [x] Further customize and style the card
